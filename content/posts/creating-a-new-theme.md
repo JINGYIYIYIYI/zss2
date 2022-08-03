@@ -1,18 +1,21 @@
 ---
 author:
-  name: Michael Henderson
-date: "2014-09-28"
-linktitle: Creating a New Theme
+  name: Li Yu
+date: "2022-8-3"
+linktitle: Creating a New Theme5
 series:
 - Hugo 101
-title: Creating a New Theme
+title: Creating a New Theme5
 type:
 - post
 - posts
 weight: 10
 ---
 
-## kaitou
+# 推荐一本书：Doing Economics
+
+
+![](https://files.mdnice.com/user/3773/6b6c569d-ed15-4d02-8970-03b8e510d964.png)
 
 
 最近忙开题之余偶然看到这本书，花两天时间读了一下，深感就算以后不找教职，这本书读起来也对职业选择受益匪浅。正如标题“Doing Economics”所蕴含的意思，作者写了一本经济学PHD早期career的指南。内容涉及如何撰写paper，如何找funding，如何在会议上Givng-talks，以及如何妥当的寻找合作者和指导学生，这些内容确实非常重要，但是也是学校很少或者会及时教授的。
@@ -22,6 +25,7 @@ weight: 10
 “I wrote this book to demystify the unspoken rules of the economics profession. In so doing, I have tried to shine some light upon the so-called hidden curriculum—those things that are normally “learned but not openly intended” (Martin 1983)—guiding how research economists go about doing their job.”
 
 
+![](https://files.mdnice.com/user/3773/b0c0b9d6-71cf-4727-8727-96c61d884b6a.png)
 
 作者娓娓道来，各章都有很有用的tips，语调平和，建议中肯，没有什么常见的假大空套词。
 
